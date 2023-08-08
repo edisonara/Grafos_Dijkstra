@@ -17,15 +17,15 @@ Programa que tiene como menu:
 
 ## Como es la app?
 ### CRC
-![CRC](https://user-images.githubusercontent.com/97000882/223334263-ba590f96-c52e-4db5-be46-43ad464c06e6.png)
+![CRC](https://github.com/edisonara/Grafos_Dijkstra/tree/master/Laboratorio_Recorridos_Grafos/GrafoRecorridos/src)
 
 ### Main.
-![Main](https://user-images.githubusercontent.com/97000882/223334287-3a498b5f-cb8f-4783-9032-34fe36f96823.png)
+![Main](https://github.com/edisonara/Grafos_Dijkstra/blob/master/Laboratorio_Recorridos_Grafos/GrafoRecorridos/src/grafos/Main.java)
  
  ### Parte de Dijkstra.
-![Dijkstra](https://user-images.githubusercontent.com/97000882/223334301-44d088a1-28fe-40f3-9686-32cdc7bf83f0.png)
+![Dijkstra](https://github.com/edisonara/Grafos_Dijkstra/blob/master/Laboratorio_Recorridos_Grafos/GrafoRecorridos/src/grafos/CaminoMinimo.java)
 ### Parte de Grafos
-[Grafos](https://docs.google.com/spreadsheets/d/e/2PACX-1vT-iKYQNOKV5vE6dCaatBkCB8U7npsZRDVtiaJuCE4o8xag1-O6UECsTFbiK6ROSpa0S-lX5bZ6ckg1/pubhtml?gid=0&single=true)
+[Grafos](https://github.com/edisonara/Grafos_Dijkstra/blob/master/Laboratorio_Recorridos_Grafos/GrafoRecorridos/src/grafos/GrafoMatriz.java)
 
 ## Vesión Desarrollo. 
 1. Para obtener la version de desarrollo comunicarse con [@user] (eaar2300appol@gmail.com)
