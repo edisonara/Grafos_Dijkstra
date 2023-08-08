@@ -1,6 +1,4 @@
 # Grafos_Dijkstra
-# BeastBoy ERP
-### Desarrollo de Software BeastBoy para mejorar la productividad de una empresa agrícola. (DSBA)
 
 [![Estado del sistema](https://img.shields.io/badge/Estado-en%20desarrollo-yellow)](https://github.com/edisonara/Grafos_Dijkstra.git)
 [![Licencia](https://img.shields.io/github/license/tuusuario/tuproyecto)](https://github.com/edisonara/Grafos_Dijkstra/blob/main/LICENSE)
